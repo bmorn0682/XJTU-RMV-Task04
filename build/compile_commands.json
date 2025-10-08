@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/home/bai/bai/test/build",
-  "command": "/usr/bin/c++  -isystem /usr/local/include/opencv4 -g -o CMakeFiles/ltest.dir/main.cpp.o -c /home/bai/bai/test/main.cpp",
-  "file": "/home/bai/bai/test/main.cpp",
-  "output": "CMakeFiles/ltest.dir/main.cpp.o"
-}
-]
